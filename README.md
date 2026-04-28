@@ -13,6 +13,7 @@ Quais leis o Brasil está seguindo sobre a IA em 2026?
 Quais são os crimes de IA, que podem gerar punições?
 Como o Brasil classifica os níveis de risco da IA?
 Quais são as multas previstas para o descumprimento dessas leis?
+Como as multas brasileiras se comparam às sanções europeias
 
 Resumo do assunto: 
 O ano de 2026 marca a consolidação das primeiras grandes barreiras regulatórias para a Inteligência Artificial. Enquanto o mundo busca um equilíbrio entre inovação e segurança, o Brasil avança na criação de um ecossistema jurídico próprio, fortemente inspirado no modelo europeu.
