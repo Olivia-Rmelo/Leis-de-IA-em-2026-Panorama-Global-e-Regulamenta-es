@@ -18,3 +18,5 @@ Resumo do assunto:
 O ano de 2026 marca a consolidação das primeiras grandes barreiras regulatórias para a Inteligência Artificial. Enquanto o mundo busca um equilíbrio entre inovação e segurança, o Brasil avança na criação de um ecossistema jurídico próprio, fortemente inspirado no modelo europeu.
 
 Nota Estratégica: Para profissionais e empresas em 2026, a conformidade (compliance) não é mais opcional. A "soberania algorítmica" tornou-se um tema central, exigindo que organizações auditem seus modelos para garantir que os dados usados no treinamento sejam éticos e transparentes.
+
+Link do NotbookLM: https://notebooklm.google.com/notebook/77b0046a-ebd2-4e15-aefc-4619add9d2bd
