@@ -6,3 +6,10 @@ Objetivos de Estudo: Desmistificação Legislativa, Análise Comparativa, atuali
 Fontes usadas para a base de dados: https://digital4d.pucpr.br/regulamentacoes-ia-impacto-carreira-profissional/
 https://www.intercept.com.br/2025/01/21/luta-global-regulacao-inteligencia-artificial/?utm_source=tp_google_interceptbr&utm_medium=cpc&utm_campaign=trafego_news&gad_source=1&gad_campaignid=23575505167&gbraid=0AAAAA-GeiJc2eWEXSvSVfalYsM9RCWCJ-&gclid=EAIaIQobChMIkrjNo6ORlAMVXWFIAB2HIh-cEAAYASAAEgL9KfD_BwE
 https://www.conjur.com.br/2026-fev-19/extraterritorialidade-da-ia-novo-campo-de-batalha-regulatorio-global/
+
+Perguntas estratégicas usadas: 
+Como o Brasil está desenvolvendo suas leis de inteligência artificial?
+Quais leis o Brasil está seguindo sobre a IA em 2026?
+Quais são os crimes de IA, que podem gerar punições?
+Como o Brasil classifica os níveis de risco da IA?
+Quais são as multas previstas para o descumprimento dessas leis?
