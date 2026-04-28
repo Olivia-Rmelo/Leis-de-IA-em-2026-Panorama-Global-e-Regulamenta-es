@@ -19,4 +19,4 @@ O ano de 2026 marca a consolidação das primeiras grandes barreiras regulatóri
 
 Nota Estratégica: Para profissionais e empresas em 2026, a conformidade (compliance) não é mais opcional. A "soberania algorítmica" tornou-se um tema central, exigindo que organizações auditem seus modelos para garantir que os dados usados no treinamento sejam éticos e transparentes.
 
-Link do NotbookLM: https://notebooklm.google.com/notebook/77b0046a-ebd2-4e15-aefc-4619add9d2bd
+Link do NotbookLM: https://notebooklm.google.com/notebook/6c4f4cf0-bab0-4724-bcbb-523ad24420fe
